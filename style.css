@@ -3,6 +3,15 @@
    margin:0%;
    box-sizing: border-box;
 }
+.texto{
+   /* posicionando texto verticalmente */
+   position: absolute;
+   top: 120px;
+   /* alterando tipo da fonte */
+   font-size: 30px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
 body{
    /* centralizar elementos */
    display:flex;
